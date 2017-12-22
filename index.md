@@ -6,9 +6,9 @@ address: "Seminar Room, Faculty of Mathematical Sciences, Al-Gamaa Street, Khart
 country: "sdn"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "ar"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "15.609321,32.541405"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "Jan 11-13, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Jan 12-13, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "7:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2017-01-11      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+startdate: 2017-01-12      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2017-01-13        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Samar Elsheikh"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Sanaa Enan", "Ola Karar", "Salma Omer", "Reem Omer", "Merghaney Mohammed", tbc]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
